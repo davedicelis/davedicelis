@@ -1,7 +1,6 @@
-### Hi there 👋
 
-
-
+[![](https://github.com/davedicelis/davedicelis/blob/main/Dave%20Dicelis.png)](https://github.com/davedicelis) 
+I am a Full-stack Mobile and Web Developer
 <!--
 **davedicelis/davedicelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,28 +16,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-### 👨‍💻 Languages and Tools
+### Tech & Tools Preference
 
-<br /><br />
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/davedicelis)](https://github.com/davedicelis) 
-[![Python](https://img.shields.io/badge/-python-green?style=flat&logo=python&link=https://github.com/davedicelis)](https://github.com/davedicelis) 
-[![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=PHP&link=https://github.com/davedicelis)](https://github.com/davedicelis)
-
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/davedicelis) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/davedicelis)](https://github.com/davedicelis) 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/davedicelis)](https://github.com/davedicelis) 
-
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/davedicelis)](https://github.com/davedicelis) 
-[![Django](https://img.shields.io/badge/-django-green?style=flat&logo=django&link=https://github.com/davedicelis)](https://github.com/davedicelis) 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/davedicelis)](https://github.com/davedicelis) 
-
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/davedicelis)](https://github.com/davedicelis) 
-[![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/davedicelis)](https://github.com/davedicelis) 
-[![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/davedicelis)](https://github.com/davedicelis) 
-
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/davedicelis)](https://github.com/davedicelis)
-[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/davedicelis)](https://github.com/davedicelis)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/davedicelis)](https://github.com/davedicelis) 
-
+## 📫 Contacto y apoyo:
+[![Email](https://img.shields.io/badge/david.dicelis@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:david.dicelis@gmail.com)
+</br>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://bmc.link/daviddicelis)
