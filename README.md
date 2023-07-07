@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
@@ -36,9 +37,8 @@ Here are some ideas to get you started:
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
-
-
-
+[![python](https://img.shields.io/badge/-python-FFD43B?style=flat&logo=python&link=https://github.com/davedicelis)](https://gitlab.com/davedicelis) 
+[![django](https://img.shields.io/badge/-django-092E20?style=flat&logo=django&link=https://github.com/davedicelis)](https://gitlab.com/davedicelis) 
 
 ## 📫 Contact:
 [![Email](https://img.shields.io/badge/david.dicelis@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:david.dicelis@gmail.com)
