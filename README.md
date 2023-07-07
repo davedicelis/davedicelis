@@ -1,5 +1,7 @@
 
-[![](https://github.com/davedicelis/davedicelis/blob/main/Dave%20Dicelis.png)](https://github.com/davedicelis) 
+[![](https://github.com/davedicelis/davedicelis/blob/main/DaveDicelis.png)](https://github.com/davedicelis) 
+
+
 I am a Full-stack Mobile and Web Developer
 <!--
 **davedicelis/davedicelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +34,7 @@ Here are some ideas to get you started:
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
-## 📫 Contacto y apoyo:
+## 📫 Contact:
 [![Email](https://img.shields.io/badge/david.dicelis@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:david.dicelis@gmail.com)
 </br>
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://bmc.link/daviddicelis)
