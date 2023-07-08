@@ -3,6 +3,7 @@
 
 
 I am a Full-stack Mobile and Web Developer
+<br><br><br><br>
 <!--
 **davedicelis/davedicelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,7 +39,7 @@ Here are some ideas to get you started:
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 [![python](https://img.shields.io/badge/-python-FFD43B?style=flat&logo=python&link=https://github.com/davedicelis)](https://gitlab.com/davedicelis) 
 [![django](https://img.shields.io/badge/-django-092E20?style=flat&logo=django&link=https://github.com/davedicelis)](https://gitlab.com/davedicelis) 
-
+<br><br><br>
 ## 📫 Contact:
 [![Email](https://img.shields.io/badge/david.dicelis@gmail.com-email_personal_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:david.dicelis@gmail.com)
 </br>
