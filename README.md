@@ -2,7 +2,7 @@
 [![](https://github.com/davedicelis/davedicelis/blob/main/DaveDicelis.png)](https://github.com/davedicelis) 
 
 
-I am a Full-stack Mobile and Web Developer
+I am a Full-stack Developer
 <br><br><br>
 <!--
 **davedicelis/davedicelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
